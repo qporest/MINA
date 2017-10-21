@@ -1,2 +1,2 @@
-# NIMA
+# MINA
 HackOHI/O 2017 Team
